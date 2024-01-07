@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:colorBackground">@color/ic_background_color</item>
+        <item name="application_logo">@drawable/dcac_logo</item>
+        <item name="title_logo">@drawable/christmas_brawl_title</item>
+        <item name="background_logo_color"> @color/black</item>
+        <item name="text_logo_color"> @color/white</item>
+    </style>
+</resources>
